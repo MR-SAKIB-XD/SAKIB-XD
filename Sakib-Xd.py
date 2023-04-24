@@ -178,7 +178,7 @@ def menu_apikey():
   print("")
   print("\x1b[1;92m   contract Admin to Buy this Tools                                                               ");time.sleep (0.1) 
   print("")
-  print("\033[1;32     YOUR  KEY : "1༒3༒9༒2༒0༒a༒7༒_༒s༒3༒6༒0༒8)
+  print("\033[1;32     YOUR  KEY : "+id)
   print("")
   print("\033[1;31m   COPY YOUR KEY AND SEND TO ADMIN  ");time.sleep(0.1)
   print("")
